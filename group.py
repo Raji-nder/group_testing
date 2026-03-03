@@ -1,2 +1,1 @@
-print("rajinder")
-print("choudhary")
+print("kya-kar-rha-hai")
